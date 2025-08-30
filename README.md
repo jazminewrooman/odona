@@ -1,4 +1,4 @@
-# Virtua - Blockchain Staking for Education
+# Odona - Blockchain Staking for Education
 
 Una aplicación React que simula un sistema de staking blockchain para financiar proyectos educativos para niñas en comunidades vulnerables.
 
